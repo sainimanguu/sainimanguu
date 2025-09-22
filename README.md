@@ -17,7 +17,7 @@
 - --
 
 - ## 🧠 About Me  
-- 🎓 3nd-year CSE–AI undergrad passionate about building useful, real-world products.  
+- 🎓 3nd-year CSE undergrad passionate about building useful, real-world products.  
 - 💼 Freelance dev delivering full-stack apps for clients and startups.  
 - 🚀 Learning to build, scale, and ship — not just code.  
 - 🧠 Focused on systems, problem-solving, and product thinking.  
