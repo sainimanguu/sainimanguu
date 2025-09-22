@@ -1,5 +1,10 @@
-<h1 align="center">Hola 👋,I am Umang Saini</h1>
-<h3 align="center">A passionate frontend developer from India🇮🇳</h3>
+<!-- Top Banner -->
+<p align="center">
+  <img src="https://www.pinterest.com/pin/425519864797300242/" alt="Cyberpunk Banner" width="100%" />
+</p>
+
+<!-- Intro Heading -->
+<h1 align="center">Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm Umang Saini</a></h1>
 
 - 🔭 I’m currently working on [Blog App](https://github.com/sainimanguu/React-appwrite--blog)
 
