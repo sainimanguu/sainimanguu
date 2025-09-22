@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://www.pinterest.com/pin/425519864797300242/" alt="Cyberpunk Banner" width="100%" />
+  <img src="https://pin.it/48Lk2L2bX" alt="Cyberpunk Banner" width="100%" />
 </p>
 
 <!-- Intro Heading -->
