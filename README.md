@@ -14,6 +14,13 @@
 
 - 📫 How to reach me **sainiumang505@gmail.com**
 
+- ## 🧠 About Me  
+- 🎓 2nd-year CSE–AI undergrad passionate about building useful, real-world products.  
+- 💼 Freelance dev delivering full-stack apps for clients and startups.  
+- 🚀 Learning to build, scale, and ship — not just code.  
+- 🧠 Focused on systems, problem-solving, and product thinking.  
+- 💡 Future goal: become a **tech entrepreneur** who creates meaningful tools.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umang-saini-075a32289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umang-saini-075a32289/" height="30" width="40" /></a>
