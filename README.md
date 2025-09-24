@@ -38,8 +38,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainimanguu&show_icons=true&locale=en" alt="sainimanguu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sainimanguu&" alt="sainimanguu" /></p>
-
 ---
 
 <h3 align="center">Thanks for stopping by 🫶</h3>
