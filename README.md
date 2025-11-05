@@ -6,7 +6,7 @@
 <!-- Intro Heading -->
 <h1 align="center">Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40" width="40" /> I'm Umang Saini</a></h1>
 
-- 🔭 I’m currently working on [WeChat-ChatApp]<a>((https://github.com/sainimanguu/WeChat-ChatApp))</a>
+- 🔭 I’m currently working on [WeChat-ChatApp][((https://github.com/sainimanguu/WeChat-ChatApp))]
 
 - 🌱 I’m currently learning **LangChain**
 
