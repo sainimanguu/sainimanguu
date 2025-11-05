@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Blog App](https://github.com/sainimanguu/React-appwrite--blog)
 
-- 🌱 I’m currently learning **WeChat-ChatApp**
+- 🌱 I’m currently learning **LangChain**
 
 - 💬 Ask me about **react,html,css**
 
