@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **LangChain**
 
-- 💬 Ask me about **react,html,css**
+- 💬 Ask me about **react,html,css,js**
 
 - 📫 How to reach me **sainiumang505@gmail.com**
 
